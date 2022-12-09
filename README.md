@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Batuhan-ankara&show_icons=true&theme=radical)
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
