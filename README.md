@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bthnankara@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a special gift, I am the best sprinter.
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Batuhan-ankara&show_icons=true&theme=radical)
