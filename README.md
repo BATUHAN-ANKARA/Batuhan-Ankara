@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Batuhan-ankara&show_icons=true&theme=radical)
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
