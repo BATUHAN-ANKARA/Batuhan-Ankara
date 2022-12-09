@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a special gift, I am the best sprinter.
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Batuhan-ankara&show_icons=true&theme=radical)
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Batuhan-ankara&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
