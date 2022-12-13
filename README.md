@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Yarn" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" style="padding-right:10px;"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?Batuhan-ankara=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Batuhan-ankara&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
