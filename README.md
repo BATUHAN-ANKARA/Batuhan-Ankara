@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="100%"/>
+</div>
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Batuhan-ankara&show_icons=true&theme=radical)
 
 ### Hi there 👋
