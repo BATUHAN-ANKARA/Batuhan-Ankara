@@ -9,11 +9,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on web programming, syber security and mobile development.
-- 🌱 I’m currently learning react-native.
-- 👯 I’m looking to collaborate on designing real time chat app and site.
-- 🤔 I’m looking for help with my summeer internship.
-- 💬 Ask me about web programming, python and react-native.
+- 🔭 I’m currently working on mobile and back-end development.
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate on designing e-commerce applications.
+- 🤔 I’m looking for help with my project ideas.
+- 💬 Ask me about nodejs, react-native and python.
 - 📫 How to reach me: bthnankara@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a special gift, I am the best sprinter.
